@@ -48,6 +48,11 @@ rental-tracker/
 │   ├── RequirementsSpecification.md   # Functional & non-functional requirements
 │   ├── RiskRegister.md                # Project risks and mitigations
 │   └── ProductBacklog.md              # Prioritized, traceable backlog
+├── UserStories/
+│   └── UserStories.md                 # 15 user stories with acceptance criteria
+├── Diagrams/
+│   ├── UseCaseDiagram.drawio          # UML use case diagram (whole system)
+│   └── ActivityDiagrams/              # UML activity diagrams (.drawio)
 └── src/
     ├── main/java/com/rentaltracker/   # Application source code
     └── test/java/com/rentaltracker/   # Unit tests
@@ -60,6 +65,8 @@ rental-tracker/
 | [Requirements Specification](docs/RequirementsSpecification.md) | Functional and non-functional requirements |
 | [Risk Register](docs/RiskRegister.md) | Identified project risks |
 | [Product Backlog](docs/ProductBacklog.md) | Initial backlog linked to requirements |
+| [User Stories](UserStories/UserStories.md) | 15 user stories with acceptance criteria |
+| [Diagrams](Diagrams/README.md) | Use case diagram and activity diagrams (draw.io XML) |
 
 ## Getting Started
 

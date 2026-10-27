@@ -228,3 +228,25 @@ Each item links to the requirement(s) in [RequirementsSpecification.md](Requirem
 | NFR-2.x | PB-03, PB-06 |
 | NFR-5.x | PB-16 |
 | NFR-6.x | PB-22 |
+
+## Backlog to User Story Mapping
+
+User stories are documented in [UserStories/UserStories.md](../UserStories/UserStories.md).
+
+| Backlog Item | User Story |
+|--------------|-----------|
+| PB-01 | US-02 |
+| PB-02, PB-14 | US-03 |
+| PB-04 | US-04 |
+| PB-05 | US-05 |
+| PB-06 | US-06 |
+| PB-07 | US-09, US-11 |
+| PB-08 | US-08 |
+| PB-09 | US-07 |
+| PB-10 | US-12 |
+| PB-11 | US-10 |
+| PB-12 | US-13 |
+| PB-13 | US-14 |
+| PB-15 | US-15 |
+| PB-16 | US-01 |
+| PB-17 | US-11 |
