@@ -11,9 +11,9 @@ All diagrams are UML and are saved as draw.io / diagrams.net XML (`.drawio`) so 
 | [ActivityDiagrams/AD-04_MonitorOverdueRentals.drawio](ActivityDiagrams/AD-04_MonitorOverdueRentals.drawio) | Activity diagram | US-13 (overdue flagging, FR-5.1, FR-5.2, NFR-3.3) |
 | [ActivityDiagrams/AD-05_SendChangeNotice.drawio](ActivityDiagrams/AD-05_SendChangeNotice.drawio) | Activity diagram | US-15 (change notices, FR-5.3, FR-5.4) |
 
-## Opening and editing
+## Opening
 
-- Go to <https://app.diagrams.net> and choose **Open Existing Diagram**, or use the draw.io extension in VS Code / IntelliJ.
+- Go to <https://app.diagrams.net> and choose **Open Existing Diagram**.
 - To add images to a README or report: **File > Export as > PNG** (or SVG/PDF).
 
 ## UML notation used
