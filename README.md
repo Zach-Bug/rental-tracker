@@ -9,7 +9,7 @@ A Java-based management tool that helps tourism companies organize and track kay
 | Name | Role | GitHub |
 |------|------|--------|
 | Zachery Bugden | Project Lead | @Zach-Bug |
-| Chase Caines | Developer | ChaseCCaines |
+| Chase Caines | Developer | @ChaseCCaines |
 
 ## Problem Statement
 
